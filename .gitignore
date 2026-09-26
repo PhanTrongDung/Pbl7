@@ -13,3 +13,5 @@ backend/data/txt/*
 backend/data/chunks/*
 backend/data/embeddings/*
 backend/data/qdrant/*
+frontend/node_modules/
+frontend/dist/
