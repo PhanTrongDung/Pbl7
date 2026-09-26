@@ -8,3 +8,8 @@ venv/
 .pytest_cache/
 .mypy_cache/
 .DS_Store
+backend/data/pdf/*
+backend/data/txt/*
+backend/data/chunks/*
+backend/data/embeddings/*
+backend/data/qdrant/*
